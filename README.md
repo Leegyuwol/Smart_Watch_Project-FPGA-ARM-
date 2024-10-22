@@ -1,4 +1,4 @@
 # Synchronizable Clock & Watch Project
 
-### PPT link
-https://1drv.ms/p/s!AoW7lidA8JGFkzu_rfKmRCVT55bB?e=I7xjGB
+![image](https://github.com/user-attachments/assets/98a1acf4-b7be-4be0-aed0-f869769e6990)
+Notion link
